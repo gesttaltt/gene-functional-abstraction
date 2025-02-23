@@ -22,6 +22,8 @@ reflects their participation in pathways and interactions. This approach disting
 high-level integrators from specialized, function-specific genes, offering a collaborative,
 open-source tool for exploring complex genetic interactions.
 
+Currently, the program primarily focuses on the genomics layer by leveraging gene ontology data. It visualizes and classifies genes based on their involvement in biological pathways and interactions—essentially providing insights into gene functionality and regulatory networks. In a multi-omics context, this represents the genomic aspect, with potential future integration of transcriptomic, proteomic, or metabolomic data to offer a more comprehensive systems biology view.
+
 Project Stages:
 ---------------
 Stage 1: Gene Classification & Data Integration
