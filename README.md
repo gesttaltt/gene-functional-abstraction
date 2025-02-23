@@ -1,3 +1,14 @@
+# Gene Functional Abstraction
+
+This project ingests Gene Ontology data (downloading `go-basic.json` if not present), processes it to extract key gene features (pathways, interactions, and a computed impact index), and visualizes the results through an interactive Dash dashboard with multiple tabs for bar charts, histograms, scatter plots, filtering, and summary statistics.
+
+## How to Use
+
+1. **Activate your virtual environment** (e.g., using `python -m venv venv` and activating it).
+2. **Run the workflow** by executing:
+   ```bash
+   python src/main.py
+
 Enhancing Genetic Analysis Through Functional Abstraction
 -----------------------------------------------------------
 
