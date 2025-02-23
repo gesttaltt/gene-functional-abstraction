@@ -1,5 +1,7 @@
 # Gene Functional Abstraction (v0.1.0 branch)
 
+![image](https://github.com/user-attachments/assets/2f6c3913-c166-4e67-8257-49bfd5a73f64)
+
 This project ingests Gene Ontology data (downloading `go-basic.json` if not present), processes it to extract key gene features (pathways, interactions, and a computed impact index), and visualizes the results through an interactive Dash dashboard with multiple tabs for bar charts, histograms, scatter plots, filtering, and summary statistics.
 
 ## How to Use
