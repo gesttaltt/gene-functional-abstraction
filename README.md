@@ -43,9 +43,11 @@ Abstraction Definitions:
       of high-degree genes.
 
 Statistical Indexes:
+
     - Qualitative Index:
       Derived by defining the desired quality and measuring the functional impact
       of genes using parameters such as connectivity, patterning, and hidden distributions.
+      
     - Quantitative Index:
       Measures the intensity of qualitative indexes in different contexts, such as
       structural organization and interaction paradigms.
