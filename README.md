@@ -2,7 +2,30 @@
 
 ![image](https://github.com/user-attachments/assets/2f6c3913-c166-4e67-8257-49bfd5a73f64)
 
+Early-phase project exploring gene ontology data biases. The v0.1.0 branch establishes a foundation for a classification model to address gene ontology issues. Not production-ready— this is a proposal.
+
 This project ingests Gene Ontology data (downloading `go-basic.json` if not present), processes it to extract key gene features (pathways, interactions, and a computed impact index), and visualizes the results through an interactive Dash dashboard with multiple tabs for bar charts, histograms, scatter plots, filtering, and summary statistics.
+
+## References and Important Citations
+
+Gene ontology data from the 2025-02-06 release (DOI:10.5281/zenodo.14861039) is made available under the terms of the CC BY 4.0 license.
+Creative Commons 4.0 License legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Gene Ontology Website: https://geneontology.org/
+Papers:
+
+    Ashburner et al. Gene ontology: tool for the unification of biology. Nat Genet. 2000 May;25(1):25-9. DOI: 10.1038/75556 [full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC3037419/]
+    The Gene Ontology Consortium. The Gene Ontology knowledgebase in 2023. Genetics. 2023 May 4;224(1):iyad031. DOI: 10.1093/genetics/iyad031 [full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC10158837/pdf/iyad031.pdf]
+
+"The database used in the v0.1.0 (go-basic.json) of this project is the DOI:10.5281/zenodo.14861039"
+
+According to the terms of GO’s CC BY 4.0 license, those using our data publicly or redistributing it must provide:
+
+    “identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);”
+    “a copyright notice;”
+    “a notice that refers to this Public License;”
+    “a notice that refers to the disclaimer of warranties;”
+    “a URI or hyperlink to the Licensed Material to the extent reasonably practicable;”
 
 ## How to Use
 
